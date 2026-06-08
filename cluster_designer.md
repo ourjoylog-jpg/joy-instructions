@@ -159,7 +159,7 @@ B. 오늘나 — 가전·생활 쇼핑 (쿠팡 제휴 + 애드센스)
 입력블록 형식 (파일 내용):
 ━━━━━━━━━━ 젠스파크 입력 [필러 / 클러스터N] ━━━━━━━━━━
 [작업 지침] 아래 URL의 지침을 system prompt로 삼아 그대로 따라 글을 쓴다:
-  조이로그(v6.7): https://raw.githubusercontent.com/ourjoylog-jpg/joy-instructions/refs/heads/main/body_generator_v2.md
+  조이로그(v6.7): https://raw.githubusercontent.com/ourjoylog-jpg/joy-instructions/refs/heads/main/body_generator.md
   (오늘나는 v1.2 지침 URL — 준비되면 교체)
 사이트: (조이로그 / 오늘나)  · 생성기: v6.7(조이로그) 또는 v1.2(오늘나)
 워프 카테고리: (해당 카테고리)
